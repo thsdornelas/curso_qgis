@@ -1,5 +1,5 @@
-# Curso de Introdução ao software QGIS
-O curso de Introdução ao _sofware_ QGIS (versão 3.14) será realizado no dia 09/11/20 durante as atividades de V Jornada de Geotecnologias do Rio de Janeiro, no período de 16:30 às 19:00.
+# Mini Curso de Introdução ao software QGIS
+O curso de Introdução ao _sofware_ QGIS LTR (versão 3.10) será realizado no dia 09/11/20 durante as atividades de V Jornada de Geotecnologias do Rio de Janeiro, no período de 16:30 às 19:00.
 
 O curso tem como objetivo apresentar as potencialidades do QGIS para o tratamento e análise de dados geoespaciais. Para isso, o curso seguirá a ementa abaixo:
 
@@ -18,3 +18,6 @@ O curso tem como objetivo apresentar as potencialidades do QGIS para o tratament
 * Vetoriais
 
 ## Instalação do software
+Para o curso será utilizada a versão 3.10.10 LTR que é a mais estável do QGIS, ou seja, teoricamente é menos passível de existirem _bugs_. **Importante:** o usuário deve verificar a arquitetura do se windows para baixar a versão correta do QGIS e do Orfeo Toolbox.
+[Link para download do QGIS](https://www.qgis.org/pt_BR/site/forusers/download.html)
+[Link para download do Orfeo Toolbox](https://www.orfeo-toolbox.org/download/)
