@@ -15,11 +15,15 @@ O curso tem como objetivo apresentar as potencialidades do QGIS para o tratament
 ## Dados
 
 * Matriciais
+[Imagem CBERS 4A](https://github.com/thsdornelas/curso_qgis/blob/master/dados/matricial/fusionada_CBERS_4A_WPM_20200918_8bit.rar)
+
 * Vetoriais
+[Buffer do município de Nova Iguaçu](https://github.com/thsdornelas/curso_qgis/blob/master/dados/vetoriais/buffer_municipio.rar)
+[Base de municípios - IBGE (2019)](https://github.com/thsdornelas/curso_qgis/blob/master/dados/vetoriais/lml_municipio.rar)
+
 
 ## Instalação do software
 Para o curso será utilizada a versão 3.10.10 LTR que é a mais estável do QGIS, ou seja, teoricamente é menos passível de existirem _bugs_. **Importante:** o usuário deve verificar a arquitetura do se windows para baixar a versão correta do QGIS e do Orfeo Toolbox.
 
 [Link para download do QGIS](https://www.qgis.org/pt_BR/site/forusers/download.html)
-
 [Link para download do Orfeo Toolbox](https://www.orfeo-toolbox.org/download/)
