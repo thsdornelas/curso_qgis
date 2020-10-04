@@ -15,10 +15,13 @@ O curso tem como objetivo apresentar as potencialidades do QGIS para o tratament
 ## Dados
 
 * Matriciais
+
 [Imagem CBERS 4A](https://github.com/thsdornelas/curso_qgis/blob/master/dados/matricial/fusionada_CBERS_4A_WPM_20200918_8bit.rar)
 
 * Vetoriais
+
 [Buffer do município de Nova Iguaçu](https://github.com/thsdornelas/curso_qgis/blob/master/dados/vetoriais/buffer_municipio.rar)
+
 [Base de municípios - IBGE (2019)](https://github.com/thsdornelas/curso_qgis/blob/master/dados/vetoriais/lml_municipio.rar)
 
 
