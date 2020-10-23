@@ -17,20 +17,20 @@ O download gratuito do programa está disponível no repositório oficial do [QG
 
 
 
-![2](C:\Users\thsdornelas\Documents\GitHub\curso_qgis\prints\tela_inicial_instaladorQGIS2.jpg)
+![2](https://github.com/thsdornelas/curso_qgis/blob/master/prints/tela_inicial_instaladorQGIS2.jpg)
 
 
 
-![3](C:\Users\thsdornelas\Documents\GitHub\curso_qgis\prints\tela_inicial_instaladorQGIS3.jpg)
+![3](https://github.com/thsdornelas/curso_qgis/blob/master/prints/tela_inicial_instaladorQGIS3.jpg)
 
 
 
-![4](C:\Users\thsdornelas\Documents\GitHub\curso_qgis\prints\tela_inicial_instaladorQGIS4.jpg)
+![4](https://github.com/thsdornelas/curso_qgis/blob/master/prints/tela_inicial_instaladorQGIS4.jpg)
 
 
 
-![5](C:\Users\thsdornelas\Documents\GitHub\curso_qgis\prints\tela_inicial_instaladorQGIS5.jpg)
+![5](https://github.com/thsdornelas/curso_qgis/blob/master/prints/tela_inicial_instaladorQGIS5.jpg)
 
 > 3. Clique em Terminar
 
-![6](C:\Users\thsdornelas\Documents\GitHub\curso_qgis\prints\tela_inicial_instaladorQGIS6.jpg)
+![6](https://github.com/thsdornelas/curso_qgis/blob/master/prints/tela_inicial_instaladorQGIS6.jpg)
