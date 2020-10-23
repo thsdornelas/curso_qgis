@@ -5,5 +5,5 @@ O download gratuito do programa está disponível no repositório oficial do [QG
 
 Para isso, o usuário deve acessar o Painel de Controle > Sistema e Segurança > Sistema
 
-![Sistema](C:\Users\thsdornelas\Documents\GitHub\curso_qgis\prints\windows.jpg)
+![Sistema](C:/Users/thsdornelas/Documents/GitHub/curso_qgis/prints/windows.jpg)
 
