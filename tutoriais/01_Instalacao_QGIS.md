@@ -5,15 +5,15 @@ O download gratuito do programa está disponível no repositório oficial do [QG
 
 > Painel de Controle > Sistema e Segurança > Sistema
 
-![Windows](C:\Users\thsdornelas\Documents\GitHub\curso_qgis\prints\windows.jpg)
+![Windows](https://github.com/thsdornelas/curso_qgis/blob/master/prints/windows.jpg)
 
 > 1. Seleciona a versão correta.
 
-![Versão](C:\Users\thsdornelas\Documents\GitHub\curso_qgis\prints\download.jpg)
+![Versão](https://github.com/thsdornelas/curso_qgis/blob/master/prints/download.jpg)
 
 > 2. Execute o arquivo > Próximo
 
-![1](C:\Users\thsdornelas\Documents\GitHub\curso_qgis\prints\tela_inicial_instaladorQGIS.jpg)
+![1](https://github.com/thsdornelas/curso_qgis/blob/master/prints/tela_inicial_instaladorQGIS.jpg)
 
 
 
