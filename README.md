@@ -20,7 +20,7 @@ O curso tem como objetivo apresentar as potencialidades do QGIS para o tratament
 
 [Cenas CBERS 4A (cenas 141 e 142)](https://drive.google.com/file/d/1Sf2HJKZ10AvZPO1WRkv1SWIQP9zkTiZE/view?usp=sharing)
 
-[Mapbiomas - Pantanal (2019)]()
+[Mapbiomas - Pantanal (2019)](https://github.com/thsdornelas/curso_qgis/blob/master/dados/matricial/mapbiomas.rar)
 
 * Vetoriais
 
@@ -32,14 +32,14 @@ O curso tem como objetivo apresentar as potencialidades do QGIS para o tratament
 
 * Tabulares
 
-[Área plantada (2019)]()
+[Área plantada (2019)](https://github.com/thsdornelas/curso_qgis/blob/master/dados/tabulares/producao_agricola_plantada_ha.csv)
 
-[Informações do Censo 2010]()
+[Informações do Censo 2010](https://github.com/thsdornelas/curso_qgis/blob/master/dados/tabulares/Basico_RJ.csv)
 
-[Focos de incêndio - Pantanal (2019)]()
+[Focos de incêndio - Pantanal (2019)](https://github.com/thsdornelas/curso_qgis/blob/master/dados/tabulares/Focos_2020-01-01_2020-11-04_pantanal.csv)
 
 ## Instalação do software
-Para o curso será utilizada a versão 3.10.11 LTR que é a mais estável do QGIS, ou seja, teoricamente é menos passível de existirem _bugs_. **Importante:** o usuário deve verificar a arquitetura do seu windows para baixar a versão correta do QGIS e do Orfeo Toolbox.
+Para o curso será utilizada a versão 3.10.11 LTR que é a mais estável do QGIS atualmente. **Importante:** o usuário deve verificar a arquitetura do seu windows para baixar a versão correta do QGIS e do Orfeo Toolbox.
 
 [Link para download do QGIS](https://www.qgis.org/pt_BR/site/forusers/download.html)
 
